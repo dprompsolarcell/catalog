@@ -5,4 +5,4 @@ Download Catalog Handuro
 Water Pump
 
 TPP
-(https://dprompsolarcell.github.io/catalog/TPP.pdf)
+(https://raw.githubusercontent.com/dprompsolarcell/catalog/main/TPP.pdf)
