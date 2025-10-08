@@ -27,3 +27,7 @@ https://dprompsolarcell.github.io/catalog/TPP.pdf
 (https://dprompsolarcell.github.io/catalog/4SDS18-115-280-3000AD.pdf)
 (https://dprompsolarcell.github.io/catalog/4SDS38-55-280-3000AD.pdf)
 (https://dprompsolarcell.github.io/catalog/6SPS56-40-280-3000AD.pdf)
+
+
+Solar cell
+(https://dprompsolarcell.github.io/catalog/HTM330.pdf)
