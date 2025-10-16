@@ -31,3 +31,10 @@ https://dprompsolarcell.github.io/catalog/TPP.pdf
 
 Solar cell
 (https://dprompsolarcell.github.io/catalog/HTM330.pdf)
+
+
+Inverter
+
+TPP
+(https://dprompsolarcell.github.io/catalog/6K.pdf)
+(https://dprompsolarcell.github.io/catalog/10K.pdf)
