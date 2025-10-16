@@ -7,6 +7,7 @@ Water Pump
 TPP
 https://dprompsolarcell.github.io/catalog/TPP.pdf
 
+Handuro 
 (https://dprompsolarcell.github.io/catalog/3SDS7.5-45-60-600.pdf)
 (https://dprompsolarcell.github.io/catalog/3SDS8-65-90-800.pdf)
 (https://dprompsolarcell.github.io/catalog/3SDS8-95-120-1100.pdf)
@@ -27,6 +28,8 @@ https://dprompsolarcell.github.io/catalog/TPP.pdf
 (https://dprompsolarcell.github.io/catalog/4SDS18-115-280-3000AD.pdf)
 (https://dprompsolarcell.github.io/catalog/4SDS38-55-280-3000AD.pdf)
 (https://dprompsolarcell.github.io/catalog/6SPS56-40-280-3000AD.pdf)
+
+(https://dprompsolarcell.github.io/catalog/SQD50-1500.pdf)
 
 
 Solar cell
