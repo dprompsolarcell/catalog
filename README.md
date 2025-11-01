@@ -32,6 +32,8 @@ Handuro
 (https://dprompsolarcell.github.io/catalog/SQD50-1500.pdf)
 (https://dprompsolarcell.github.io/catalog/SCPM60-27-280-2200-AD.pdf)
 (https://dprompsolarcell.github.io/catalog/SCPM70-24-300-2200-AD.pdf)
+(https://dprompsolarcell.github.io/catalog/SCPM85-28-300-3000-AD.pdf)
+
 
 
 Solar cell
