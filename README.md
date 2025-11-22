@@ -48,4 +48,3 @@ Inverter
 TPP
 (https://dprompsolarcell.github.io/catalog/6K.pdf)
 (https://dprompsolarcell.github.io/catalog/10K.pdf)
-(https://dprompsolarcell.github.io/CatalogTPP.pdf)
