@@ -42,6 +42,9 @@ Handuro
 Solar cell
 (https://dprompsolarcell.github.io/catalog/HTM330.pdf)
 
+Inverter
+(https://dprompsolarcell.github.io/catalog/Superbox.pdf) IOT
+
 
 Inverter
 
