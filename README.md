@@ -43,7 +43,7 @@ Solar cell
 (https://dprompsolarcell.github.io/catalog/HTM330.pdf)
 
 Inverter
-(https://dprompsolarcell.github.io/catalog/Superbox.pdf) IOT
+(https://dprompsolarcell.github.io/catalog/Superbox-1.pdf) IOT
 
 
 Inverter
