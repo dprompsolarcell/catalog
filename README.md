@@ -44,6 +44,7 @@ Solar cell
 
 Inverter
 (https://dprompsolarcell.github.io/catalog/Superbox-1.pdf) IOT
+(https://dprompsolarcell.github.io/catalog/EasyBox-2.pdf)
 
 
 Inverter
