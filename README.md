@@ -79,8 +79,14 @@ https://dprompsolarcell.github.io/catalog/TPP_4SBS 38-55-280-3000AD.pdf
 https://dprompsolarcell.github.io/catalog/TPP_4SPS 11-115-200-1800AD.pdf
 https://dprompsolarcell.github.io/catalog/TPP_6SPS 56-40-280-3000AD.pdf
 
-
-
+https://dprompsolarcell.github.io/catalog/TPP_TIS80-65-11KW-520V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TISW30-46-2800W-240V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TISW30-70-6KW-520V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TPN15-23-750W-72V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TPN135-20-4KW-400V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TPN260-18-8KW-520V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TQB2.3-36-400W-36V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TZK30-14-900W-96V.pdf
 
 
 - Inverter
