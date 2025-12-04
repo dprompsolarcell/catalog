@@ -79,7 +79,7 @@ https://dprompsolarcell.github.io/catalog/TPP_4SBS38-55-280-3000AD.pdf
 https://dprompsolarcell.github.io/catalog/TPP_4SPS11-115-200-1800AD.pdf
 https://dprompsolarcell.github.io/catalog/TPP_6SPS56-40-280-3000AD.pdf
 
-https://dprompsolarcell.github.io/catalog/TPP_TIS80-65-11KW-520V.pdf
+https://dprompsolarcell.github.io/catalog/TPP_TISW80-65-11KW-520V.pdf
 https://dprompsolarcell.github.io/catalog/TPP_TISW30-46-2800W-240V.pdf
 https://dprompsolarcell.github.io/catalog/TPP_TISW30-70-6KW-520V.pdf
 https://dprompsolarcell.github.io/catalog/TPP_TPN15-23-750W-72V.pdf
