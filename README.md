@@ -48,36 +48,36 @@ TPP
 - Water Pump
 https://dprompsolarcell.github.io/catalog/TPP.pdf
 
-https://dprompsolarcell.github.io/catalog/TPP_3SBS 7.5-45-60-600.pdf
-https://dprompsolarcell.github.io/catalog/TPP_3SBS 8-65-90-800.pdf
-https://dprompsolarcell.github.io/catalog/TPP_3SBS 8-95-120-1100.pdf
-https://dprompsolarcell.github.io/catalog/TPP_3SBS 8-125-170-1500.pdf
+https://dprompsolarcell.github.io/catalog/TPP_3SBS7.5-45-60-600.pdf
+https://dprompsolarcell.github.io/catalog/TPP_3SBS8-65-90-800.pdf
+https://dprompsolarcell.github.io/catalog/TPP_3SBS8-95-120-1100.pdf
+https://dprompsolarcell.github.io/catalog/TPP_3SBS8-125-170-1500.pdf
 
-ttps://dprompsolarcell.github.io/catalog/TPP_4SBS 10-80-120-1100.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 18-50-120-1100.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 13-93-170-1500.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 20-58-170-1500.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 18-80-200-1800.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 20-77-240-2200.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 18-115-280-3000.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 38-55-280-3000.pdf
+ttps://dprompsolarcell.github.io/catalog/TPP_4SBS10-80-120-1100.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS18-50-120-1100.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS13-93-170-1500.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS20-58-170-1500.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS18-80-200-1800.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS20-77-240-2200.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS18-115-280-3000.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS38-55-280-3000.pdf
 
 
-https://dprompsolarcell.github.io/catalog/TPP_3SBS 8-65-90-800AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_3SBS 8-95-120-1100AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_3SBS 8-125-170-1500AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_3SBS8-65-90-800AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_3SBS8-95-120-1100AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_3SBS8-125-170-1500AD.pdf
 
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 13-93-170-1500AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 14-110-200-1800AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 18-80-200-1800AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 18-95-240-2200AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 20-77-240-2200AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 10-190-280-3000AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 18-115-280-3000AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_4SBS 38-55-280-3000AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS13-93-170-1500AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS14-110-200-1800AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS18-80-200-1800AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS18-95-240-2200AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS20-77-240-2200AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS10-190-280-3000AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS18-115-280-3000AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS38-55-280-3000AD.pdf
 
-https://dprompsolarcell.github.io/catalog/TPP_4SPS 11-115-200-1800AD.pdf
-https://dprompsolarcell.github.io/catalog/TPP_6SPS 56-40-280-3000AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SPS11-115-200-1800AD.pdf
+https://dprompsolarcell.github.io/catalog/TPP_6SPS56-40-280-3000AD.pdf
 
 https://dprompsolarcell.github.io/catalog/TPP_TIS80-65-11KW-520V.pdf
 https://dprompsolarcell.github.io/catalog/TPP_TISW30-46-2800W-240V.pdf
