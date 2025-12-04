@@ -53,7 +53,7 @@ https://dprompsolarcell.github.io/catalog/TPP_3SBS8-65-90-800.pdf
 https://dprompsolarcell.github.io/catalog/TPP_3SBS8-95-120-1100.pdf
 https://dprompsolarcell.github.io/catalog/TPP_3SBS8-125-170-1500.pdf
 
-ttps://dprompsolarcell.github.io/catalog/TPP_4SBS10-80-120-1100.pdf
+https://dprompsolarcell.github.io/catalog/TPP_4SBS10-80-120-1100.pdf
 https://dprompsolarcell.github.io/catalog/TPP_4SBS18-50-120-1100.pdf
 https://dprompsolarcell.github.io/catalog/TPP_4SBS13-93-170-1500.pdf
 https://dprompsolarcell.github.io/catalog/TPP_4SBS20-58-170-1500.pdf
