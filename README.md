@@ -46,7 +46,7 @@ Handuro
 TPP
 
 - Logo
- (https://dprompsolarcell.github.io/catalog/TPP.png)
+https://dprompsolarcell.github.io/catalog/TPP.png
 
 - Water Pump
 https://dprompsolarcell.github.io/catalog/TPP.pdf
