@@ -50,6 +50,7 @@ https://dprompsolarcell.github.io/catalog/TPP.png
 
 - Water Pump
 https://dprompsolarcell.github.io/catalog/TPP.pdf
+https://dprompsolarcell.github.io/catalog/รวมปั๊ม-2.pdf
 
 https://dprompsolarcell.github.io/catalog/TPP_3SBS7.5-45-60-600.pdf
 https://dprompsolarcell.github.io/catalog/TPP_3SBS8-65-90-800.pdf
